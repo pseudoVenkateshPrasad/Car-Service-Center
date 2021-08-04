@@ -1,0 +1,99 @@
+{
+    "cars": [{
+            "id": 1,
+            "image": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-9.jpeg",
+            "Manufacturer": "Maruti Suzuki",
+            "Models": [
+                "Alto", "S-Presso", "Eeco", "Wagon R", "Celerio", "Ignis", "Ritz", "Celerio X", "Baleno", "Swift", "DZire", "Vitara Brezza", "Ertiga", "Ciaz", "S-Cross", "XL6"
+            ]
+        },
+        {
+            "id": 2,
+            "image": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-7.jpeg",
+            "Manufacturer": "Hyundai",
+            "Models": [
+                "Santro", "Grand i10 NIOS", "Grand i10", "Aura", "i20", "Venue", "Verna", "Creta", "Elantra", "Tucson", "Kona Electric"
+            ]
+        },
+        {
+            "id": 3,
+            "image": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-6.jpeg",
+            "Manufacturer": "Honda",
+            "Models": ["Amaze", "Jazz", "WR-V", "City 4th Generation", "All new City", "Civic", "CR-V"]
+        },
+        {
+            "id": 4,
+            "image": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-14.jpeg",
+            "Manufacturer": "Tata",
+            "Models": ["Tiago", "Altroz", "Tigor", "Nexon", "Harrier", "Safari", "Tigor EV"]
+        },
+        {
+            "id": 5,
+            "image": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-16.jpeg",
+            "Manufacturer": "Volkswagen",
+            "Models": ["Polo", "Vento", "T-Roc", "Tiguan"]
+        },
+        {
+            "id": 6,
+            "image": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-5.jpeg",
+            "Manufacturer": "Ford",
+            "Models": ["Figo", "Freestyle", "Aspire", "EcoSport", "Endeavour"]
+        },
+        {
+            "id": 7,
+            "image": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-8.jpeg",
+            "Manufacturer": "Mahindra",
+            "Models": ["KUV 100 NXT", "e20 Plus", "Bolero", "XUV 300", "Thar", "Marazzo", "Scorpio", "XUV 500", "Alturas G4"]
+        },
+        {
+            "id": 8,
+            "image": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-12.jpeg",
+            "Manufacturer": "Renault",
+            "Models": ["Kwid", "Triber", "Kiger", "Duster"]
+        },
+        {
+            "id": 9,
+            "image": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-22.jpeg",
+            "Manufacturer": "Jaguar",
+            "Models": ["XE", "XF", "F-Pace", "F-type", "I-Pace"]
+        },
+        {
+            "id": 10,
+            "image": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-11.jpeg",
+            "Manufacturer": "Nissan",
+            "Models": ["Magnite", "Kicks", "GT-R"]
+            
+        },
+        {
+            "id": 11,
+            "image": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-20.jpeg",
+            "Manufacturer": "BMW",
+            "Models": ["BMW X1", "BMW X2 Gran Coupe", "BMW 3 Series", "BMW X3", "BMW X4", "BMW Z4", "BMW X5", "BMW X6", "BMW M2", "BMW X7"]
+        },
+        {
+            "id": 12,
+            "image": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-26.jpeg",
+            "Manufacturer": "MERCEDES",
+            "Models": ["Benz A-Class", "Benz C-Class", "Benz GLC", "Benz E-Class", "Benz V-Class", "Benz CLS", "Benz S-Class", "Benz S-Coupe"]
+        },
+        {
+            "id": 13,
+            "image": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-18.jpeg",
+            "Manufacturer": "AUDI",
+            "Models": ["Audi Q2", "A4", "A6", "S5 Sportback", "Audi Q8", "Audi A8 L", "Audi RS7 Sportback", "RS Q8"]
+        },
+        {
+            "id": 14,
+            "image": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-28.jpeg",
+            "Manufacturer": "Porsche",
+            "Models": ["Macan", "Porsche 718", "Cayenne", "Panamera", "Porsche 911"]
+        },
+        {
+            "id": 15,
+            "image": "https://gm-retail-app.s3.ap-south-1.amazonaws.com/thumbnails/brand-24.jpeg",
+            "Manufacturer": "Land Rover",
+            "Models": ["Discovery Sport", "Evoque", "Defender", "Range Rover Velar", "Range Rover Sport"]
+        }
+
+    ]
+}
